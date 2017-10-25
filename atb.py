@@ -1,5 +1,5 @@
 template = "[![{0}](http://img.shields.io/:{1}-{2}-{3}.svg)](https://github.com/Alan-FGR/aelum)"
-colors = ["green","yellowgreen","yellow","orange","red","lightgrey","blue"]
+colors = ["brightgreen","green","yellowgreen","yellow","orange","red","lightgrey","blue"]
 
 import random, Tkinter
 
