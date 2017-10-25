@@ -10,6 +10,7 @@ How to run: run the .py file in your py2k interpreter of choice, this beauty sho
 - Profit from the bullshit!!1! This is wall street baby! :trollface:
 
 Example:
+
 [![Lorem ipsum](http://img.shields.io/:Lorem-ipsum-green.svg)](https://github.com/Alan-FGR/aelum)
 [![dolor sit](http://img.shields.io/:dolor-sit-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
 [![amet, consectetur](http://img.shields.io/:amet,-consectetur-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
