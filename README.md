@@ -1,2 +1,65 @@
 # BogusBadges
-Python tool to generate bogus badges to fancy your repo with bullshit :trollface:
+
+How to run: run the .py file in your py2k interpreter of choice, this beauty should appear:
+![](ss.png)
+
+- Paste bogus text on the top text area
+- Click "Convert" button
+- Copy text that appears on bottom text area
+- Paste on your GitHub repo Readme.md
+- Profit from the bullshit!!1! This is wall street baby! :trollface:
+
+Example:
+[![Lorem ipsum](http://img.shields.io/:Lorem-ipsum-green.svg)](https://github.com/Alan-FGR/aelum)
+[![dolor sit](http://img.shields.io/:dolor-sit-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![amet, consectetur](http://img.shields.io/:amet,-consectetur-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![adipiscing elit.](http://img.shields.io/:adipiscing-elit.-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![Maecenas feugiat](http://img.shields.io/:Maecenas-feugiat-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![lacinia lacinia.](http://img.shields.io/:lacinia-lacinia.-orange.svg)](https://github.com/Alan-FGR/aelum)
+[![Proin ultricies](http://img.shields.io/:Proin-ultricies-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![euismod sapien,](http://img.shields.io/:euismod-sapien,-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![vel congue](http://img.shields.io/:vel-congue-blue.svg)](https://github.com/Alan-FGR/aelum)
+[![erat pellentesque](http://img.shields.io/:erat-pellentesque-orange.svg)](https://github.com/Alan-FGR/aelum)
+[![ut. Maecenas](http://img.shields.io/:ut.-Maecenas-blue.svg)](https://github.com/Alan-FGR/aelum)
+[![convallis, tellus](http://img.shields.io/:convallis,-tellus-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![facilisis ultrices](http://img.shields.io/:facilisis-ultrices-red.svg)](https://github.com/Alan-FGR/aelum)
+[![gravida, massa](http://img.shields.io/:gravida,-massa-green.svg)](https://github.com/Alan-FGR/aelum)
+[![leo consequat](http://img.shields.io/:leo-consequat-green.svg)](https://github.com/Alan-FGR/aelum)
+[![elit, quis](http://img.shields.io/:elit,-quis-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![laoreet turpis](http://img.shields.io/:laoreet-turpis-yellow.svg)](https://github.com/Alan-FGR/aelum)
+[![ante vitae](http://img.shields.io/:ante-vitae-yellowgreen.svg)](https://github.com/Alan-FGR/aelum)
+[![erat. Vestibulum](http://img.shields.io/:erat.-Vestibulum-orange.svg)](https://github.com/Alan-FGR/aelum)
+[![et hendrerit](http://img.shields.io/:et-hendrerit-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![nunc, vitae](http://img.shields.io/:nunc,-vitae-yellowgreen.svg)](https://github.com/Alan-FGR/aelum)
+[![faucibus ipsum.](http://img.shields.io/:faucibus-ipsum.-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![Etiam aliquet](http://img.shields.io/:Etiam-aliquet-orange.svg)](https://github.com/Alan-FGR/aelum)
+[![posuere nunc](http://img.shields.io/:posuere-nunc-orange.svg)](https://github.com/Alan-FGR/aelum)
+[![sed eleifend.](http://img.shields.io/:sed-eleifend.-blue.svg)](https://github.com/Alan-FGR/aelum)
+[![Quisque quis](http://img.shields.io/:Quisque-quis-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![ligula sed](http://img.shields.io/:ligula-sed-green.svg)](https://github.com/Alan-FGR/aelum)
+[![nisl faucibus](http://img.shields.io/:nisl-faucibus-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![gravida vel](http://img.shields.io/:gravida-vel-orange.svg)](https://github.com/Alan-FGR/aelum)
+[![et felis.](http://img.shields.io/:et-felis.-red.svg)](https://github.com/Alan-FGR/aelum)
+[![Morbi et](http://img.shields.io/:Morbi-et-blue.svg)](https://github.com/Alan-FGR/aelum)
+[![pulvinar velit.](http://img.shields.io/:pulvinar-velit.-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![Morbi fermentum](http://img.shields.io/:Morbi-fermentum-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![nisi risus,](http://img.shields.io/:nisi-risus,-green.svg)](https://github.com/Alan-FGR/aelum)
+[![in fringilla](http://img.shields.io/:in-fringilla-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![tortor rutrum](http://img.shields.io/:tortor-rutrum-orange.svg)](https://github.com/Alan-FGR/aelum)
+[![pharetra. Nulla](http://img.shields.io/:pharetra.-Nulla-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![fringilla sed](http://img.shields.io/:fringilla-sed-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![justo commodo](http://img.shields.io/:justo-commodo-blue.svg)](https://github.com/Alan-FGR/aelum)
+[![porta. In](http://img.shields.io/:porta.-In-green.svg)](https://github.com/Alan-FGR/aelum)
+[![lacus sapien,](http://img.shields.io/:lacus-sapien,-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![lacinia quis](http://img.shields.io/:lacinia-quis-blue.svg)](https://github.com/Alan-FGR/aelum)
+[![neque at,](http://img.shields.io/:neque-at,-red.svg)](https://github.com/Alan-FGR/aelum)
+[![hendrerit lacinia](http://img.shields.io/:hendrerit-lacinia-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![ipsum. Duis](http://img.shields.io/:ipsum.-Duis-lightgrey.svg)](https://github.com/Alan-FGR/aelum)
+[![eget neque](http://img.shields.io/:eget-neque-blue.svg)](https://github.com/Alan-FGR/aelum)
+[![vitae eros](http://img.shields.io/:vitae-eros-red.svg)](https://github.com/Alan-FGR/aelum)
+[![iaculis fermentum.](http://img.shields.io/:iaculis-fermentum.-blue.svg)](https://github.com/Alan-FGR/aelum)
+[![Ut semper](http://img.shields.io/:Ut-semper-green.svg)](https://github.com/Alan-FGR/aelum)
+[![leo at](http://img.shields.io/:leo-at-f7c.svg)](https://github.com/Alan-FGR/aelum)
+[![dolor blandit,](http://img.shields.io/:dolor-blandit,-orange.svg)](https://github.com/Alan-FGR/aelum)
+[![eu sagittis](http://img.shields.io/:eu-sagittis-orange.svg)](https://github.com/Alan-FGR/aelum)
+[![nisl fringilla.](http://img.shields.io/:nisl-fringilla.-red.svg)](https://github.com/Alan-FGR/aelum)
